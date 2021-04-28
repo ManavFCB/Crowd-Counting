@@ -1,4 +1,4 @@
-# Crowd-Counting - DS 5500 Phase 1
+# Crowd-Counting - DS 5500 Project
 
 ## References
 
